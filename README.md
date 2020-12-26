@@ -1,2 +1,5 @@
 # Data_Science_Final_Project
-Đồ án cuối kì môn nhập môn khoa học dữ liệu
+STT nhóm: 09
+Thông tin thành viên nhóm:
+18120656 - Trần Luật Vy
+18120563 - Hứa Phú Thành
